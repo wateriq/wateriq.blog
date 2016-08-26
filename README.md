@@ -29,6 +29,14 @@ Data Management Maturity Model
 ![dmm](http://cmmiinstitute.com/sites/all/themes/cmmi/images/dmm_diagram.png)
 © 2016 CMMI Institute. All rights reserved.
 
+How can we help?
+
+Attend this Webinar: https://www.dataone.org/webinars/incentives-challenges-barriers-exploring-social-institutional-and-economic-reasons-sharing
+
+Crafting responsive tools for the sharing of data and knowledge requires understanding the people who will use them. In particular, exploring and studying how and why researchers perceive incentives, risks, and rewards for sharing research data may provide additional approaches and paths towards increasing openness.
+
+This webinar will be broadcast from SciDataCon during International Data Week in Denver, Colorado, and will feature panelists who plan to discuss their work in the areas of: data as social capital, giving researchers credit for data, and the results of a case study on perceived versus actual risks of data sharing.
+
 27 August 2016
 
 ---
