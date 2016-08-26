@@ -19,3 +19,7 @@ Research data repositories are under pressure to provide web scale enterprise in
 Curating research data and enabling discovery are hard problems to solve for an international audience and the challenges are growing in complexity everyday.
 
 On site repositories will continue to serve a critical growing role as a local cache but must be supported effectively in an ever growing distributed computing context. Leading research institutions and companies with social impact objectives will drive research data to the cloud.
+
+26 August 2016
+
+---
