@@ -23,3 +23,9 @@ On site repositories will continue to serve a critical growing role as a local c
 26 August 2016
 
 ---
+
+![dmm](http://cmmiinstitute.com/sites/all/themes/cmmi/images/dmm_diagram.png)
+
+27 August 2016
+
+---
