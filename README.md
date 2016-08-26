@@ -12,7 +12,7 @@ A social enterprise is an organization or initiative that marries the social mis
 
 # Position
 
-The growing recognition of the value of data in general and research data specifically create new demands on data repositories and custodians. Data management mandates from social enterprise minded funders demand open data and publically acessible results.
+The growing recognition of the value of data in general and research data specifically create new demands on data repositories and custodians. Data management mandates from social enterprise minded funders demand open data and publically acessible, useful results.
 
 Research data repositories are under pressure to provide web scale enterprise infrastucture, capacity, quality and access to an ever changing audience. A single repository manager may not only be responsible to collect and organize data through its full life cycle to publication and reporting back to funding agencies, but also be required to provide web services to other reseach teams and public outcomes ranging from web sites to mobile applications.
 
