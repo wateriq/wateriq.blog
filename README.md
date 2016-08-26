@@ -24,7 +24,10 @@ On site repositories will continue to serve a critical growing role as a local c
 
 ---
 
+Data Management Maturity Model
+
 ![dmm](http://cmmiinstitute.com/sites/all/themes/cmmi/images/dmm_diagram.png)
+© 2016 CMMI Institute. All rights reserved.
 
 27 August 2016
 
