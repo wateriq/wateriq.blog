@@ -31,7 +31,7 @@ Data Management Maturity Model
 
 How can we help?
 
-Attend this Webinar: https://www.dataone.org/webinars/incentives-challenges-barriers-exploring-social-institutional-and-economic-reasons-sharing
+Attend this Webinar: https://www.dataone.org/webinars
 
 Crafting responsive tools for the sharing of data and knowledge requires understanding the people who will use them. In particular, exploring and studying how and why researchers perceive incentives, risks, and rewards for sharing research data may provide additional approaches and paths towards increasing openness.
 
