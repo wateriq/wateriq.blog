@@ -31,19 +31,4 @@ Data Management Maturity Model
 
 How can we help?
 
-Attend this Webinar: https://www.dataone.org/webinars
-
-Crafting responsive tools for the sharing of data and knowledge requires understanding the people who will use them. In particular, exploring and studying how and why researchers perceive incentives, risks, and rewards for sharing research data may provide additional approaches and paths towards increasing openness.
-
-This webinar will be broadcast from SciDataCon during International Data Week in Denver, Colorado, and will feature panelists who plan to discuss their work in the areas of: data as social capital, giving researchers credit for data, and the results of a case study on perceived versus actual risks of data sharing.
-
-Open Government Data Competition in South Australia
-https://twitter.com/SAUnleashed
-GovHack Queensland
-https://twitter.com/GovHackQld
-Hashtag
-'#GovHack2016'
-
-27 August 2016
-
 ---
