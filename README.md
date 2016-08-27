@@ -1,5 +1,3 @@
-# wateriq.blog
-
 # Project
 
 This project is an open social enterprise in the form of a research institute.
